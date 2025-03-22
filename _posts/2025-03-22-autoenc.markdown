@@ -1,0 +1,15 @@
+---
+layout: "post"
+title: "What is an AutoEncoder?"
+---
+
+{: style="text-align: justify"}
+An AutoEncoder [^1] is a type of artificial neural network [^2] whose goal is to reconstruct its input while learning an efficient representation of it.
+These neural networks are trained unsupervisedly [^3] and are able to learn compressed representations of input patterns to then reconstruct them.
+
+## References
+[^1]: [‘Autoencoder’](https://en.wikipedia.org/wiki/Autoencoder). In Wikipedia, 11 February 2025.
+
+[^2]: [‘Neural Network (Machine Learning)’](https://en.wikipedia.org/wiki/Neural_network_(machine_learning)). In Wikipedia, 19 March 2025.
+
+[^3]: [‘Unsupervised Learning’](https://en.wikipedia.org/wiki/Unsupervised_learning). In Wikipedia, 28 February 2025.
