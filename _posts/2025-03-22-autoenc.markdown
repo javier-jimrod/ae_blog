@@ -11,7 +11,11 @@ These neural networks are trained unsupervisedly [^3] and are able to learn comp
 Typically, AutoEncoders can be divided in two submodels: the *encoder* and the *decoder*.
 The encoder transforms the input data into a compressed, lower-dimensional representation, while the decoder reconstructs the original input from this compressed representation.
 
-<!-- TODO: Add a picture of the Vanilla AutoEncoder following [this](https://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll) figure insertion method -->
+{: style="text-align: center"}
+<figure>
+  <img src="{{ site.baseurl }}/assets/img/Architectures/Vanilla AutoEncoder.svg" style="display: block; margin-left: auto; margin-right: auto; width: 40%;"/>
+  <figcaption>Vanilla AutoEncoder model with its encoder and decoder layers.</figcaption>
+</figure>
 
 {: style="text-align: justify"}
 AutoEncoders come in different flavours ranging from the vanilla architecture, the simplest basic form of AutoEncoder shown above, to more complex models [^4] appropriate for different contexts.
