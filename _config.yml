@@ -22,7 +22,7 @@ title: "Decoding AutoEncoders"
 description: >- # this means to ignore newlines until "baseurl:"
   Decoding AutoEncoders is a blog dedicated to unraveling the complexities of AutoEncoders in deep learning.
   It covers topics such as their architecture, applications in anomaly detection, data compression, and generative models.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ae_blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  javier-jimrod
 
